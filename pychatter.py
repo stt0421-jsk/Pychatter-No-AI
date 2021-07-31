@@ -46,7 +46,7 @@ def get_time():
 
 yes_list = ["y", "Y", "Yes", "yes", "yeah", "sure", "yep", "yup", "ok", "okay", "k", "Okay" "dd", "ya"]
 no_list = ["n", "N", "No", "no", "nope", "not really", "Nope", "Not really", "nah", "Nah", "ss"]
-command_input_list = ["weather", "time", "calc", "help"]
+command_input_list = ["weather", "time", "calc", "calculator", "help"]
 
 me_list = ['me', 'i', 'I', 'Me', "I'll", "I'd", "I've", "I'm"]
 you_list = ['you', 'You', 'Chatbot', 'chatbot', 'thee', 'thy', 'tu', "you'd", "you've", "You'd", "You've", "You're", "you're", "your", "Your"]

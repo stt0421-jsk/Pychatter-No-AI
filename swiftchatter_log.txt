@@ -1,0 +1,26 @@
+July 30th, 2021
+-Basic functions
+-sys()
+-getUserPre()
+-getCmd()
+-getYN()
+-getName()
+-main()
+-runCommand()
+
+July  31st, 2021
+-Basic functions
+-err()
+-detQuit()
+-Debugging Mode
+-dbg()
+-mmain_init()
+-detType()
+-detCmd()
+-Calculator functions
+-clc()
+-cmd_calc()
+-calc_addition()
+-calc_subtraction()
+-calc_multiplication()
+-calc_division()
